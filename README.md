@@ -61,3 +61,11 @@ Github repository, making it a valuable tool for data analysis and decision-maki
 Overall, the result of this project will be a comprehensive and user-friendly solution
 for extracting, transforming, and visualizing data from the Phonepe pulse Github
 repository.
+
+**Libraries/Modules needed for the project!**
+Plotly 
+Pandas 
+mysql.connector
+Streamlit 
+json 
+git.repo.base 
