@@ -74,3 +74,17 @@ Streamlit
 json 
 
 git.repo.base 
+
+Step 1: Importing the Libraries
+
+Step 2: Data extraction
+
+Step 3: Data transformation
+
+Step 4: Database insertion
+
+Step 5: Dashboard creation
+
+Step 6: Data retrieval
+
+
