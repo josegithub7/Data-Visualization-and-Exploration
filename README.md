@@ -64,8 +64,13 @@ repository.
 
 **Libraries/Modules needed for the project!**
 Plotly 
+
 Pandas 
+
 mysql.connector
+
 Streamlit 
+
 json 
+
 git.repo.base 
